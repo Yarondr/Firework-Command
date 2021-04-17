@@ -1,0 +1,10 @@
+name: Firework
+version: 1.0-SNAPSHOT
+main: me.yarond.firework.Main
+api-version: 1.15
+
+commands:
+  firework:
+    aliases: fw
+    usage: /fw
+    description: Summon a firework
